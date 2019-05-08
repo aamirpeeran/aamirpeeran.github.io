@@ -92,16 +92,16 @@ a {
     }
 }
 
-/* For devices larger than 550px */
+/* For devices larger than 1080px */
 
 @media (min-width: 1080px) {
     body {
-        font-size: 40px;
+        font-size: 35px;
     }
     .center {
         width: 85%;
     }
     .heading {
-        font-size: 100px;
+        font-size: 90px;
     }
 }
