@@ -1,0 +1,30 @@
+.portfolio {
+    background: var(--background-white);
+    color: var(--black);
+    font-weight: 700;
+}
+
+.portfolioTiles {
+    margin-top: 45px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.portfolioTile {
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;    
+}
+
+.tileText {
+    color: var(--black);
+}
+
+@media (max-width: 480px) {
+    .portfolioTile {
+        width: 100%;
+    }
+}

@@ -1,0 +1,14 @@
+:root {
+    --background-grey: #9EA3B0;
+    --background-white: #ffffff;
+    --background-faded-red: #FAE1DF;
+
+    --white: #ffffff;
+    --black: #000000;
+    --grey: #9EA3B0;
+    
+    --line: #FAEBD7;
+
+    --sans-serif: 'Raleway', sans-serif;
+    --serif:'Playfair Display', serif;
+}

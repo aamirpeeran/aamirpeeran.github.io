@@ -17,6 +17,10 @@ body {
     transform: translate(-50%, -50%);
 }
 
+.centerHeading {
+    text-align: center;
+}
+
 .heading {
     font-family: var(--sans-serif);
     font-size: 80px;
