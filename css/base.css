@@ -26,13 +26,17 @@ section {
 
 .centerHeading {
     text-align: center;
+    font-family: var(--sans-serif);
+    font-size: 80px;
+    text-transform: uppercase;
+    margin-bottom: 80px;
 }
 
 .heading {
     font-family: var(--sans-serif);
     font-size: 80px;
     text-transform: uppercase;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
 .subheading {
@@ -81,6 +85,9 @@ a {
     .heading {
         font-size: 40px;
     }
+    .centerHeading {
+        font-size: 40px;
+    }
 }
 
 /* For devices larger than 550px */
@@ -93,6 +100,9 @@ a {
         width: 80%;
     }
     .heading {
+        font-size: 80px;
+    }
+    .centerHeading {
         font-size: 80px;
     }
 }
@@ -113,6 +123,9 @@ a {
         width: 85%;
     }
     .heading {
+        font-size: 90px;
+    }
+    .centerHeading {
         font-size: 90px;
     }
 }

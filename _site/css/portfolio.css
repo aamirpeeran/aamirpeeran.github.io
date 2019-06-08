@@ -4,6 +4,14 @@
     font-weight: 700;
 }
 
+.tile {
+    height: 150px;
+    width: 100%;
+    background: #FAE1DF;
+    border: 1px black solid;
+    margin-bottom: 25px;
+}
+
 .portfolioTiles {
     margin-top: 45px;
     display: flex;
@@ -13,14 +21,16 @@
 
 .portfolioTile {
     height: 200px;
-    width: 300px;
+    width: 250px;
     text-align: center;
     font-size: 30px;
-    font-style: italic;    
+    font-style: italic;
+    margin-top: 30px;    
 }
 
 .tileText {
     color: var(--black);
+    font-weight: 700;
 }
 
 .portContainer {
