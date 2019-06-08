@@ -4,7 +4,8 @@ layout: default
 ---
 
 <body>
-    <div class="center">
+    <section>
+    <div class="container">
         <h1 class="heading">Aamir Peeran <span class="line"></span></h1>
         <p class="subheading">designer focused on product design and branding.</p>
         <div class="links">
@@ -12,5 +13,6 @@ layout: default
             <div class="link"><a href="/portfolio.html">portfolio</a></div>
             <div class="link"><a href="/contact.html">contact</a></div>
         </div>
-    </div>
+        </div>
+    </section>
 </body>

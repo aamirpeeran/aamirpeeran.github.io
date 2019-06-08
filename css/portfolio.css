@@ -23,6 +23,14 @@
     color: var(--black);
 }
 
+.portContainer {
+    position: relative;
+    width: 85%;
+    max-width: 1980px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 @media (max-width: 480px) {
     .portfolioTile {
         width: 100%;

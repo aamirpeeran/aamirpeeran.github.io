@@ -4,7 +4,8 @@ layout: default
 ---
 
 <body class="about">
-    <div class="center">
+    <section>
+    <div class="container">
             <h1 class="heading">About</h1>
             <p class="subheading">I am a creative that loves product design, branding and fashion. I am the creative
             director of Homi, a high growth tech startup in the twin cities, I develop all brand aesthetics,marketing
@@ -15,5 +16,6 @@ layout: default
             <div class="bumpdown">
                 <div>I love basketball, hip-hop, street & high fashion, and cars.</div>
             </div>
-    </div>
+            </div>
+    </section>
 </body>
