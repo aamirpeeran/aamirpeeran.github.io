@@ -9,7 +9,8 @@
     width: 100%;
     background: #FAE1DF;
     border: 1px black solid;
-    margin-bottom: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 .portfolioTiles {
@@ -25,12 +26,14 @@
     text-align: center;
     font-size: 30px;
     font-style: italic;
-    margin-top: 30px;    
+    margin-top: 10px;    
 }
 
 .tileText {
     color: var(--black);
     font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
 }
 
 .portContainer {
@@ -41,8 +44,32 @@
     margin-left: auto;
 }
 
-@media (max-width: 480px) {
+/* For devices larger than 400px */
+
+@media (min-width: 50px) {
+    
+}
+
+/* For devices larger than 550px */
+
+@media (min-width: 550px) {
     .portfolioTile {
-        width: 100%;
+        margin-top: 40px;    
+    }
+    .tileText {
+        font-size: 30px;
+    }
+
+}
+
+@media (max-width: 750px) {
+
+}
+
+/* For devices larger than 1080px */
+
+@media (min-width: 1080px) {
+    .tileText {
+        font-size: 35px;
     }
 }
