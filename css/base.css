@@ -1,5 +1,5 @@
 body {
-    height: 100vh;
+    height: 100%;
     font-family: var(--serif);
     font-size: 30px;
     background: var(--background-grey);
@@ -19,8 +19,7 @@ section {
 .container {
     position: relative;
     max-width: 1980px;
-    margin-right: auto;
-    margin-left: 0px;
+    margin: 35px auto 35px 0px;
 }
 
 .centerHeading {
