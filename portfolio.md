@@ -3,11 +3,12 @@ title: portfolio
 layout: portfolio
 ---
 
-{% for post in site.posts %} 
-
 <div class="portfolioTile">
-     <a href="{{ post.url }}"><div class="tile"></div><div class="tileText">{{ post.title}}</div></a>
-    
+     <a href="/productdesign.html"><div class="tile"></div><div class="tileText">product design</div></a>
 </div>
-
-{% endfor %}
+<div class="portfolioTile">
+     <a href="/branding.html"><div class="tile"></div><div class="tileText">branding</div></a>
+</div>
+<div class="portfolioTile">
+     <a href="/fashion.html"><div class="tile"></div><div class="tileText">fashion</div></a>
+</div>
