@@ -11,10 +11,9 @@ layout: default
                 <div><br> I served as the creative director of Homi, a high growth tech startup in the twin cities. I developed all brand aesthetics, marketing collateral and designed our web & mobile platforms.<br>
                 <div><br>I also founded paaq, a brand focused on telling the stories of South Asia. <br>
                 <div><br>See my full resume here.</div>
-            </p>
+            <p></p>
             <div class="bumpdown">
                 <div>I love basketball, hip-hop, street & high fashion, and cars.</div>
-            </div>
             </div>
     </section>
 </body>
