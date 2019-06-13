@@ -15,6 +15,6 @@ layout: default
             <div class="bumpdown">
                 <div>I love basketball, hip-hop, streetwear, and cars.</div>
             </div>
-        </div>    
+            </div>    
     </section>  
 </body>
