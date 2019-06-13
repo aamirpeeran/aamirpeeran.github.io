@@ -13,8 +13,8 @@ layout: default
                 <div><br>See my full resume here.</div> 
             <p></p>
             <div class="bumpdown">
-                <div>I love basketball, hip-hop, street & high fashion, and cars.</div>
+                <div>I love basketball, hip-hop, streetwear, and cars.</div>
             </div>
-        </div>    
-    </section>
-</body>
+            </div>    
+        </section>  
+    </body>
