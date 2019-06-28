@@ -29,7 +29,7 @@ section {
     text-align: center;
     font-family: var(--sans-serif);
     font-size: 80px;
-    font-weight: 900;
+    font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 0px;
     margin-top: 80px;
@@ -38,7 +38,7 @@ section {
 .heading {
     font-family: var(--sans-serif);
     font-size: 80px;
-    font-weight: 900;
+    font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 30px;
 }

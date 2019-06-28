@@ -6,9 +6,10 @@
     --white: #ffffff;
     --black: #000000;
     --grey: #9EA3B0;
+    --red: #F04848;
     
     --line: #FAEBD7;
 
-    --sans-serif: 'Gothic A1', sans-serif;
+    --sans-serif: 'Poppins', sans-serif;
     --serif: 'Crimson Text', serif;
 }
