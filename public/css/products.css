@@ -53,16 +53,6 @@
     text-align: center;
 }
 
-.photos {
-    margin: 20px auto 10px auto;
-}
-
-img {
-    margin: 0px auto;
-    padding: 0px 30px;
-    max-width: 78vw;
-    max-height: 78vh;
-}
 
 @media only screen and (max-width: 450px) {
     .productInfoDesktop {
