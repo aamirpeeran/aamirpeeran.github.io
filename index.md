@@ -7,7 +7,7 @@ layout: default
     <section class="standard">
     <div class="container">
         <h1 class="heading">Aamir Peeran</h1>
-        <p class="subheading">designer focused on product design and branding.</p>
+        <p class="subheading">designer focused on product and branding.</p>
         <div class="links">
             <div class="link"><a href="/about.html">about</a></div>
             <div class="link"><a href="/portfolio.html">portfolio</a></div>
