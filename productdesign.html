@@ -1,0 +1,69 @@
+---
+title: product design
+layout: default
+---
+
+<body class="contact">
+  <section class="bold">
+    <div>
+      <h1 class="heading">Product Design</h1>
+      <hr>
+      <div class="product">
+        <div class="productInfoDesktop">
+          <div class="productTitle">
+            <div class="productContain" style="color: var(--red);">Homi</div>
+            <div class="productContain" style="color: var(--grey);">about</div>
+          </div>
+          <div class="productInfo">
+            <div class="productContain">mobile platform</div>
+            <div class="productContain">a product designed to make campus recruiting as easy as possible.</div>
+          </div>
+        </div>
+        <div class="productInfoMobile">
+          <div class="productName" style="color: var(--red);">Homi<br><span class="normalize">web platform</span></div>
+          <div class="productAbout" style="color: var(--grey);">about<br><span class="normalize">a product designed to
+              make campus recruiting as easy as possible</span></div>
+        </div> <br>
+        <div class="w3-content w3-section centerProdImage" style="max-width:500px">
+          <img class="mySlides centerProdImage homiMobileImages"
+            src="public/images/product design/homi mobile/Members on iphone.png">
+          <img class="mySlides centerProdImage homiMobileImages"
+            src="public/images/product design/homi mobile/Video 1.png">
+          <img class="mySlides centerProdImage homiMobileImages"
+            src="public/images/product design/homi mobile/alumni jobs1.png">
+          <img class="mySlides centerProdImage homiMobileImages"
+            src="public/images/product design/homi mobile/alumni jobs2.png">
+          <img class="mySlides centerProdImage homiMobileImages"
+            src="public/images/product design/homi mobile/alumni jobs3.png">
+          <img class="mySlides centerProdImage homiMobileImages"
+            src="public/images/product design/homi mobile/job on phone.png">
+          <img class="mySlides centerProdImage homiMobileImages"
+            src="public/images/product design/homi mobile/messaging on iphone.png">
+          <img class="mySlides centerProdImage homiMobileImages"
+            src="public/images/product design/homi mobile/profile on iphone.png">
+          <img class="mySlides centerProdImage homiMobileImages"
+            src="public/images/product design/homi mobile/video 2.png">
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <script>
+    var myIndex = 0;
+    carousel();
+
+    function carousel() {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+      }
+      myIndex++;
+      if (myIndex > x.length) { myIndex = 1 }
+      x[myIndex - 1].style.display = "block";
+      setTimeout(carousel, 3000); // Change image every 3 seconds
+    }
+  </script>
+
+</body>
