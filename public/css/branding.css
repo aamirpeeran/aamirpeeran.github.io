@@ -16,3 +16,18 @@
     -moz-box-shadow: 8px 8px 21px -6px rgba(74, 74, 74, 1);
     box-shadow: 8px 8px 21px -6px rgba(74, 74, 74, 1);
 }
+
+.fashionTile {
+    height: 250px;
+    margin: 20px;
+    font-size: 30px;
+    margin-top: 10px;
+    -webkit-box-shadow: 8px 8px 21px -6px rgba(74, 74, 74, 1);
+    -moz-box-shadow: 8px 8px 21px -6px rgba(74, 74, 74, 1);
+    box-shadow: 8px 8px 21px -6px rgba(74, 74, 74, 1);
+}
+
+.fashionImage {
+    max-height: 80vh;
+    max-width: 80vw;
+}
