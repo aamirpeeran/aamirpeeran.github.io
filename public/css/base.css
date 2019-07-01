@@ -11,12 +11,18 @@ body {
     padding: 0;
 }
 
-section {
+section.standard {
     min-height: 100%;
     margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+section.products {
+    margin: auto;
+    display: flex;
+    justify-content: center;
 }
 
 .container {
@@ -40,7 +46,11 @@ section {
     font-size: 80px;
     font-weight: 600;
     text-transform: uppercase;
-    margin-bottom: 30px;
+    margin: 0px 0px 30px 0px;
+}
+
+.productHeading {
+    margin: 20px 0px 15px 0px;
 }
 
 .subheading {

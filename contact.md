@@ -4,7 +4,7 @@ layout: default
 ---
 
 <body class="contact">
-    <section class="bold">
+    <section class="standard">
     <div class="container">
         <h1 class="heading">Contact Me</h1>
         <p class="subheading">aamir@peeran.xyz<br>818.653.5847</p>

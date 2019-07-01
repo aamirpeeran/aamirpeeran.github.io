@@ -4,7 +4,7 @@ layout: default
 ---
 
 <body>
-    <section>
+    <section class="standard">
     <div class="container">
         <h1 class="heading">Aamir Peeran</h1>
         <p class="subheading">designer focused on product design and branding.</p>

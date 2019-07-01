@@ -1,4 +1,6 @@
-.product {}
+.product {
+    width:70vw;
+}
 
 .productTitle {
     font-family: var(--sans-serif);
@@ -55,12 +57,23 @@
     text-align: center;
 }
 
-.homiMobileImages {
+.mobileSlideshowImages {
     width: 70%;
+}
+
+.homiHRImages {
+    width: 55vw;
 }
 
 .centerProdImage {
     margin: 0px auto;
+}
+
+.hrProductDivide {
+    width: 50%;
+    color: #b9b9b91c;
+    border-color: #b9b9b91c;
+    background-color: #b9b9b91c;
 }
 
 @media only screen and (max-width: 450px) {
@@ -72,6 +85,9 @@
     }
     .normalize {
         font-size: 20px;
+    }
+    .homiHRImages {
+        width: 65vw;
     }
 }
 

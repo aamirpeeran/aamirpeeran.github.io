@@ -4,7 +4,7 @@ layout: default
 ---
 
 <body class="about">
-  <section>
+  <section class="standard">
     <div class="container">
       <h1 class="heading">About</h1>
       <p class="subheading">I am a designer that loves product design, branding and fashion.<br>
