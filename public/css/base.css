@@ -94,7 +94,7 @@ section.products {
 }
 
 a {
-    color: white;
+    color: var(--white);
     text-decoration: none;
 }
 
