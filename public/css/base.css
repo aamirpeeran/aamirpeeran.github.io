@@ -5,6 +5,7 @@ body, html {
 body {
     font-family: var(--serif);
     font-size: 30px;
+    font-weight: 700;
     background: var(--background-grey);
     color: var(--background-white);
     margin: 0;
