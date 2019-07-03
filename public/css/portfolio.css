@@ -14,7 +14,7 @@
     margin-top: 45px;
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .portfolioTile {

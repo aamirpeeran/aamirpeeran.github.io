@@ -69,6 +69,17 @@ section.products {
     justify-content: space-between;
 }
 
+.portfolioLinks {
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.portfolioLink {
+    color: var(--black);
+}
+
 .link {
     margin-right: 10px;
 }
