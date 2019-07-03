@@ -7,7 +7,7 @@ layout: default
     <section class="standard">
     <div class="container">
         <h1 class="heading">Contact Me</h1>
-        <p class="subheading">aamir@peeran.xyz<br>818.653.5847</p>
+        <p class="subheading"><a href="mailto:aamir@peeran.xyz" target="_blank">aamir@peeran.xyz</a> <br>818.653.5847</p>
         <div class="bumpdown">
           <div>@aamirpeeran on instagram</div>
         </div>
