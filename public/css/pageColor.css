@@ -1,0 +1,29 @@
+.about {
+    background: var(--background-faded-red);
+    color: var(--black);
+}
+
+.branding {
+    background: var(--background-white);
+    color: var(--black);
+}
+
+.contact {
+    background: var(--background-navy);
+    color: var(--white);
+}
+
+.fashion {
+    background: var(--background-white);
+    color: var(--black);
+}
+
+.portfolio {
+    background: var(--background-coral);
+    color: var(--white);
+}
+
+.productDesign {
+    background: var(--background-white);
+    color: var(--black);
+}
