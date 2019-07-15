@@ -13,7 +13,7 @@ layout: default
           <div><br>I also founded <a href="https://paaq.co/" target="_blank">paaq</a>, a brand focused on sharing the stories of South Asia. <br>
             <div><br>I love basketball, streetwear, and cars.</div>
             <div class="bumpdown">
-              <div>See my full resume <a href="https://www.dropbox.com/s/dwt5qqhhii3t6ez/Aamir%20Peeran%20Resume.pdf?dl=0" target="_blank">here</a>.</div>
+              <div>See my full resume <a href="https://www.dropbox.com/s/hti7dzngnht7osn/Aamir%20Peeran%20Resume.pdf?dl=0" target="_blank">here</a>.</div>
             </div>
           </div>
         </div>
