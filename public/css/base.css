@@ -58,10 +58,15 @@ section.products {
     margin: 0;
 }
 
+.imageHint {
+    font-size: 17px;
+    font-weight: 400;
+    color: rgb(133, 133, 133);
+}
+
 .bumpdown {
     margin-top: 65px;
 }
-
 
 .links {
     width: 70%;
@@ -97,7 +102,6 @@ a {
     color: var(--white);
     text-decoration: none;
 }
-
 
 /* For devices larger than 400px */
 
